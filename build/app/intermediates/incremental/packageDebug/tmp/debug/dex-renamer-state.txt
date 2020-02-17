@@ -1,0 +1,4 @@
+#Fri Feb 14 14:12:50 IST 2020
+base.0=/home/ulcom17/Desktop/Flutter/dynamic_themeing/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
